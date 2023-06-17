@@ -13,7 +13,7 @@ Bu proje, Samet Can Söylemez tarafından Fırat Üniversitesi Yazılım Mühend
  ![Kart Resimi](Card.png)
 
 ## Oyunun Amacı
-* İç içe geçmiş şekillere göre verilen soruları cevaplama
+* Görseldeki mesafeleri tespit edip verilen soruları cevaplama
 * Cevapları doğrulayabilme
 * Cevapları kontrol etme
 
@@ -25,10 +25,10 @@ Bu proje, Samet Can Söylemez tarafından Fırat Üniversitesi Yazılım Mühend
 * Kullanım kolaylığı
 
 ## Dökümanlar
-[Oyun içi anlatımdan kod analizine kadar tüm dökümanlara buradan erişebilirsiniz.](Dokumantasyon)
+[Oyun içi anlatımdan kod analizine kadar tüm dökümanlara buradan erişebilirsiniz.](Documentation)
 
 ## Apk Dosyası
-[Kart oyunu Apk dosyasına buradan erişebilirsiniz.](KartOyunuApk.zip)
+[Kart oyunu Apk dosyasına buradan erişebilirsiniz.](MesafeOyunu.zip)
 ## Oyun İçi Görseller
 <img src="1.jpg" alt="Resim 1" width="350" height="500" style="margin-right: 20px;"> <img src="2.jpg" alt="Resim 2" width="350" height="500">
 <br>
